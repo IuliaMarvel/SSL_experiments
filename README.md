@@ -1,2 +1,3 @@
 # SSL_experiments
-With use of Self-Supervised Learning
+
+Notebooks for training SSL models
