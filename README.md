@@ -7,5 +7,4 @@ For evaluation KNN classification (cross-validation score) on extracted features
 
 Standard training follows [Lightly](https://github.com/lightly-ai/lightly) framework, while in finetuning pretrained weights are obtained from [MMPreTrain](https://github.com/open-mmlab/mmpretrain/tree/main#installation) (see model_utils.py for exact code of the models).
 
-Data preprocessing functions (we use CIFAR10, CIFAR100 and Tiny Imagenet datasets) can be found in [data_utils.py](/finetuned/utils
-/data_utils.py).
+Data preprocessing functions (we use CIFAR10, CIFAR100 and Tiny Imagenet datasets) can be found in [data_utils.py](/finetuned/utils/data_utils.py).
